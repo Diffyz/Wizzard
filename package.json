@@ -2,8 +2,9 @@
   "name": "wizzard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://diffyz.github.io/Wizzard/",
+  "homepage": "https://diffyz.github.io/Wizzard/build",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "^2.1.3",
