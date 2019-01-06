@@ -1,40 +1,38 @@
 button {
-	padding: 5px 14px 7px 14px;
-	background: cyan;
+  padding: 5px 14px 7px 14px;
+  background: cyan;
 }
 #prevButton {
-	position: absolute;
-	margin-left: 100px;
+  position: absolute;
+  margin-left: 100px;
 }
 #nextButton {
-	position: absolute;
-	margin-left: 300px;
+  position: absolute;
+  margin-left: 300px;
 }
 .hide {
-	display: none;
+  display: none;
 }
 .container {
-	width: 500px;
-	height: 300px;
-	background: gray;
-	border: 4px double black;
+  width: 500px;
+  height: 300px;
+  border: 4px double black;
 }
 
 .choose {
-	height: 200px;
-	background: red;
+  height: 200px;
 }
 
 span {
-	display: inline-block;
-	vertical-align: bottom;
-	margin-bottom: -10px;
-	width: 500px;
+  display: inline-block;
+  vertical-align: bottom;
+  margin-bottom: -10px;
+  width: 500px;
 }
 div {
-	margin: 21px 0 0 0;
+  margin: 21px 0 0 0;
 }
 
 .control-button {
-	margin-left: 15%;
+  margin-left: 15%;
 }
